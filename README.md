@@ -2,7 +2,7 @@
 
 View the live project: https://cs290finalsnidervanelli.herokuapp.com/
 
-> Skew is an application that crowd-sources information about the political bias of newspapers. In an increasingly digitized world plagued by false information, the integrity of publications must be critically evaluated by the general public now more than ever. Skew helps users visualize trends in public sentiment with regards to the political leanings of applications, so they can make informed decisions about the content they read online.
+> Skew is an application that crowd-sources information about the political bias of newspapers. In an increasingly digitized world plagued by false information, the integrity of publications must be critically evaluated by the general public now more than ever. Skew helps users visualize trends in public sentiment with regards to the political leanings of publications, so they can make informed decisions about the content they read online.
 > Made with Veutify, Firebase, and Chart.js.
 
 
