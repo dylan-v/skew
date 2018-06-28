@@ -1,5 +1,7 @@
 # Skew: A Newspaper Bias Meter
 
+View the live project: https://cs290finalsnidervanelli.herokuapp.com/
+
 > A Vue.js project
 > Skew is an application that crowd-sources information about the political bias of newspapers. In a modern world plagues by false information, the integrity of publications must be critically evaluated by the general public now more than ever.
 
@@ -27,6 +29,3 @@ npm run build --report
 - Share whether you agree with other users about the bias of a newspaper.<br>
 - Visualize crowd-sourced data.<br>
 - Review statistics about your voting history, and potentially, your own personal bias.<br>
-
-### Roles
-Check the application "About" tab for information on different types of users and their abilities.
