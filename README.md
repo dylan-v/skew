@@ -26,7 +26,7 @@ npm run build --report
 - Vote on the political bias of a newspaper.<br>
 - Share whether you agree with other users about the bias of a newspaper.<br>
 - Visualize crowd-sourced data.<br>
-- Review statistics about how you voted, your own personal bias, and your credibility.<br>
+- Review statistics about your voting history, and potentially, your own personal bias.<br>
 
 ### Roles
 Check the application "About" tab for information on different types of users and their abilities.
