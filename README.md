@@ -2,8 +2,9 @@
 
 View the live project: https://cs290finalsnidervanelli.herokuapp.com/
 
-> A Vue.js project
 > Skew is an application that crowd-sources information about the political bias of newspapers. In a modern world plagues by false information, the integrity of publications must be critically evaluated by the general public now more than ever.
+> Made with Veutify, Firebase, and Chart.js.
+
 
 ## Build Setup
 
